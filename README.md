@@ -2,3 +2,5 @@
 
 Simple Java Calculator.
 
+![](img/JavaCalculator.png)
+
